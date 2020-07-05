@@ -2,6 +2,7 @@
 
 <p align="center">A Fortnite HTTP/XMPP bot coded in Python with party capabilities.</p>
 <p align="center">This is forked by mistxoli all credit goes to him :).</p>
+<p align="center">Join his discord server [here](https://discord.gg/JHSGZPN).</p>
 
 ## Installation
 This fortnite lobby bot requires Python 3.6.1  or greater. If you need Python 3.6.1+, you can get it from here: [Python 3.6.1 Download](https://www.python.org/downloads/release/python-361/ "Python 3.6.1 Download").
